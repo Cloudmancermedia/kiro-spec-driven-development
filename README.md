@@ -1,1 +1,1 @@
-# kiro-spec-driven-development
+# Intro to Kiro Spec Driven Development
